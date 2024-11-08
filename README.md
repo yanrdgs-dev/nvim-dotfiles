@@ -25,4 +25,4 @@ Gerenciador de plugins: [lazy.nvim](https://github.com/folke/lazy.nvim)
 [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Highlighting\
 [trouble-nvim](https://github.com/folke/trouble.nvim) - Diagnóstico de erro e quickfix\
 [vim-maximizer](https://github.com/szw/vim-maximizer) - Maximiza o buffer atual\
-[which-key](https://github.com/folke/which-key.nvim) - Helper de keybinds\
+[which-key](https://github.com/folke/which-key.nvim) - Helper de keybinds
