@@ -1,8 +1,8 @@
 return {
-	"catppuccin/nvim",
-	name = "catppuccin",
+	"eddyekofo94/gruvbox-flat.nvim",
 	priority = 1000,
+	enabled = true,
 	config = function()
-		vim.cmd("colorscheme catppuccin")
+		vim.cmd("colorscheme gruvbox-flat")
 	end,
 }
