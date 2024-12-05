@@ -32,6 +32,7 @@ return {
 				"black",
 				"ruff",
 				"eslint_d",
+				"rustfmt",
 			},
 		})
 	end,
